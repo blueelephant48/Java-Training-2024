@@ -1,4 +1,7 @@
 # Week 2 Homework 🍵
+OPTIONAL
+Only do if you feel like you need a refresher 
+or warm up for programing with the basic java tools
 
 ### Task 🐧
 Create a calculator from the requirements below! (Import Scanner and Math)
